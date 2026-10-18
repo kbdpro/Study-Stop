@@ -1,0 +1,18 @@
+{
+  "topics": [],
+  "history": [
+    {
+      "id": "h1-ornek",
+      "topic": "Çarpanlar ve Katlar",
+      "subject": "Matematik",
+      "grade": "8. Sınıf (LGS)",
+      "score": 4,
+      "total": 5,
+      "percentage": 80,
+      "date": "18.10.2026 23:04"
+    }
+  ],
+  "preferences": {
+    "language": "tr"
+  }
+}
